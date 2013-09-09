@@ -11,6 +11,7 @@ Minesweeper game for iOS
 ![Screenshot 2](http://www.emersonbroga.com/github/iMinesweeper/screen_2.png)
 
 ![Screenshot 3](http://www.emersonbroga.com/github/iMinesweeper/screen_3.png)
+Cheat Code: Shake the device to show all mines!
 
 ![Screenshot 4](http://www.emersonbroga.com/github/iMinesweeper/screen_4.png)
 
